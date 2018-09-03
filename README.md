@@ -1,2 +1,11 @@
-# android_weex_youpin
-Android 端集成weex 仿小米有品
+# 纯weex开发 仿小米有品 Android客户端
+
+![](https://github.com/lidiwo/weex_youpin/blob/master/image.png)
+
+# 扫描二维码下载Android apk 体验
+
+![](https://github.com/lidiwo/weex_youpin/blob/master/image.png)
+
+## weex 端源码下载地址
+
+https://github.com/lidiwo/weex_youpin
